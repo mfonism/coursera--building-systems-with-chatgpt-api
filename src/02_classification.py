@@ -6,7 +6,7 @@ You will be provided with customer service queries. The customer service query w
 
 Classify each query into a primary category and a secondary category.
 
-Provide your output in json format with the keys: primary and secondary.
+Provide your output in json format with the keys: query, primary and secondary.
 
 Primary categories: Billing, Technical Support, Account Management, or General Inquiry.
 
